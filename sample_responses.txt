@@ -1,0 +1,11 @@
+Question: What is AI?
+Answer: simulation of human intelligence in machines
+Sources: ['Artificial Intelligence is the simulation of human intelligence in machines, enabling them to perform tasks like reasoning and learning.', 'Machine Learning is a subset of AI where algorithms learn patterns from data to make predictions or decisions.', 'A neural network is a computational model inspired by the human brain, used in machine learning.']
+
+Question: What is RAG?
+Answer: chatbot
+Sources: ['RAG improves chatbot accuracy by retrieving relevant documents before generating answers.', 'Tokenization is the process of breaking text into smaller units, like words or subwords.', 'Retrieval-Augmented Generation combines document retrieval with text generation to provide contextual answers.']
+
+Question: What is a Chatbot?
+Answer: a program that simulates human conversation
+Sources: ['A Chatbot is a program that simulates human conversation, often used for customer service or information retrieval.', 'A Chatbot processes user input, matches it to intents, and generates responses using rules or AI models.', 'RAG improves chatbot accuracy by retrieving relevant documents before generating answers.']
